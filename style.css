@@ -1,0 +1,58 @@
+.h1-index{
+    background-color:rgb(241, 139, 139);
+    color:rgb(231, 217, 217);
+}
+h2{
+    background-color: rgb(218, 216, 216);
+    color:rgb(226, 43, 202);
+}
+.main{
+    
+    background-color: rgb(199, 65, 139);
+}
+h3{
+    background-color: yellow;
+    
+}
+ h3:hover{
+    color:brown;
+ }
+
+ a{
+    color:rgb(113, 0, 219)
+ }
+ a:hover{
+   
+    color:rgb(189, 47, 12);
+}
+a:active{
+    color:rgb(190, 113, 12);
+
+}
+/**
+a:visited{
+    color: green;
+}
+**/
+.partner-links {
+    background-color: rgb(43, 188, 224);
+    list-style-type: none;
+}
+.partner-links a {
+    color: rgb(54, 6, 99);
+}
+.link-to-contact{
+    color:rgb(24, 216, 250);
+    font-weight:bolder;
+    }
+.link-to-index{
+color:deeppink;
+font-weight:bolder;
+}
+.contact-info{
+    background-color: rgb(66, 206, 241);
+    list-style-type: circle;
+}
+.contact-info a{
+    color:blue;
+}
